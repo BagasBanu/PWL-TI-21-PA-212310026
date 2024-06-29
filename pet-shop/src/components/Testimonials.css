@@ -1,0 +1,16 @@
+.testimonials {
+  padding: 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.testimonial {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+}
+
+.testimonial p {
+  margin: 10px 0;
+}

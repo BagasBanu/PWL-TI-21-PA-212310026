@@ -1,0 +1,10 @@
+.brands {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.brands img {
+  max-width: 100px;
+  height: auto;
+}
